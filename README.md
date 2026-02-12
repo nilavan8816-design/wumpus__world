@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:  DIKSHA M                 </h3>
-<h3>Register Number: 212224060067               </h3>
+<h3>Name:  PONNILAVAN N                 </h3>
+<h3>Register Number: 212224060186               </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic.
